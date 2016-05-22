@@ -1,2 +1,2 @@
 # htmlApetega
-Código para o curso de apetega.
+Código final para o obradoiro de apetega. Pode irse modificando en función de como avance a sesión.
